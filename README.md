@@ -1,16 +1,16 @@
 # Mod15_Challenge
 
-##Overview
+## Overview
 
-##Background
+## Background
 
 In 2007, the United States joined the world with its first bike-share program (https://www.sciencedirect.com/science/article/pii/S1077291X22002600).  Since then, bike-sharing programs have popped up all over the country.   According to Greater, Greater Washington, a Washington DC-based non-profit (https://ggwash.org), there are 119 cities with bike-sharing systems in the United States.  Citi Bike, in New York,  was launched in May 2013 (https://ride.citibikenyc.com/about) and is the largest network of bikes in the United States (https://ggwash.org/view/62137/all-119-us-bikeshare-systems-ranked-by-size).
 
-##Proposal
+## Proposal
 
 We would propose starting a bike-sharing program here in Des Moines.  Since Citi Bike’s program is one of the most well-known and popular programs, we will be using publicly available data to analyze their program to demonstrate the feasibility of a Des Moines program.  The data are from August 2019 and are available at https://citibikenyc.com/system-data.   As with many other businesses, bike-sharing companies suffered during the pandemic.  We believe that pre-pandemic data are more representative of future use patterns.  To analyze the data, we used Tableau Public version 2023.1.
 
-#Results
+# Results
 
 Within the August 2019 Citi-Bike dataset, there are a total of 2,344,224 rides categorized with information pertaining to the start date/times, stop date/times, gender, and subscription service.  There were on average 75.6 thousand rides per day (std 8.4K rides/day). The overwhelming majority of the rides (98.8%) are less than 1 hour as can be seen in the following figure.
 
@@ -44,7 +44,7 @@ Individuals who have Unknown gender are primarily Customers.
 
 Looking at the pattern of day of the week use for the Customers, this pattern is radically different than the work commute pattern. Their use is more during the weekends, possibly for running errands, leisure, or exercise.  
 
-#Summary
+# Summary
 
 Since Citi Bikes’ launch in New York in 2013, the company has made a transformation in transportation within the city.  Even in a single month, millions of individuals use their service.  The vast majority of the users are Male Subscribers.  The primary utilization appears to be commuting to work.   In that, the rides occur during the main commuting hours of 6-9 am and 5-7 pm Monday through Friday.   There is an odd dip on Wednesday afternoon that should be further investigated.  It appears that ridership reaches a lull possibility due to mid-week fatigue.
 
