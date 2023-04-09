@@ -12,9 +12,12 @@ We would propose starting a bike-sharing program here in Des Moines.  Since Citi
 
 # Results
 
-Within the August 2019 Citi-Bike dataset, there are a total of 2,344,224 rides categorized with information pertaining to the start date/times, stop date/times, gender, and subscription service.  There were on average 75.6 thousand rides per day (std 8.4K rides/day). The overwhelming majority of the rides (98.8%) are less than 1 hour as can be seen in the following figure.
+Within the August 2019 Citi-Bike dataset, there are a total of 2,344,224 rides categorized with information pertaining to the start date/times, stop date/times, gender, and subscription service.  There were on average 75.6 thousand rides per day (std 8.4K rides/day). The full Tableau story can be viewed at (https://public.tableau.com/app/profile/carry.croghan/viz/Mod15_Challenge/Story1)
+
+In the following figure, it can be seen that the overwhelming majority of the rides (98.8%) are less than 1 hour.
 
 ![Line Chart Duration of Rides in minutes](RideDuration.png)
+
 The majority of the users identified as male (65% compared to 25% female).  There are many unknowns in the dataset as well.
 
 ![Line Chart Duration of Rides in minutes by gender](RideDurationGender.png)
@@ -52,5 +55,5 @@ The two-tiered system of paying, Customer versus Subscription, seems to be advan
 
 We would recommend the following additional visualizations of the Citi Bike data. 
 
-•	Since the program does show less uptake with Females and these analyses were limited to a single month and year, a look into demographic trends as a time series over a longer period would be advisable.   
-•	For a fuller understanding of the bicycle’s utility, a variety of different seasons and weather conditions should be examined as histograms. 
+ •	Since the program does show less uptake with Females and these analyses were limited to a single month and year, a look into demographic trends as a time series over a longer period would be advisable.   
+ •	For a fuller understanding of the bicycle’s utility, a variety of different seasons and weather conditions should be examined as histograms. 
